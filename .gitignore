@@ -1,0 +1,6 @@
+# 项目排除路径
+/target/
+/.idea/
+.md
+.iml
+/src/main/java/com/xmu/MyDubbo/tempFile/*/

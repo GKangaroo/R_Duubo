@@ -1,0 +1,1 @@
+{com.xmu.MyDubbo.provider.service.HelloService=[URL(hostname=localhost, port=7869, weight=60, activeCount=0)]}
